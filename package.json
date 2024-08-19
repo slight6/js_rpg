@@ -1,0 +1,32 @@
+{
+  "name": "js_rpg",
+  "version": "0.0.1",
+  "description": "Attempt at writing a JS clone of Mutants! (an old BBS door game)",
+  "main": "backend.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slight6/js_rpg.git"
+  },
+  "keywords": [
+    "rpg",
+    "mud",
+    "Mutants!",
+    "BBS",
+    "door",
+    "game",
+    "D&D"
+  ],
+  "author": "Jason Consiglio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slight6/js_rpg/issues"
+  },
+  "homepage": "https://github.com/slight6/js_rpg#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
